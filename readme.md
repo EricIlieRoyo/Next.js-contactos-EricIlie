@@ -1,6 +1,6 @@
 **Next.js** es un framework de React que funciona como una solución integral para el desarrollo web moderno. Su principal fortaleza reside en el renderizado en el servidor, por lo que la velocidad de carga inicial es mayor, tiene una mejor experiencia de usuario y un excelente posicionamiento en motores de búsqueda. También se caracteriza por automatizar tareas complejas mediante un sistema de rutas basado en la estructura de carpetas. Por último, combina el desarrollo frontend y backend en un mismo proyecto.
 
-Las principales diferencias de Next.js con Php son:
+Las principales diferencias de **Next.js** con **Php** son:
 
 - El lenguaje de **JavaScript(Next.js)** permite arrancar el servidor una vez y se queda encendido escuchando peticiones a diferencia de **PHP** que tras cada petición reinicia. Por lo que el **JavaScript** es muy bueno para aplicaciones de tiempo real.
 
