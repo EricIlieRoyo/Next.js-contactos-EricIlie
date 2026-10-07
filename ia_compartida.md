@@ -94,5 +94,7 @@ Sigue estas especificaciones técnicas y de diseño paso a paso:
 Por favor, comienza generando el esquema de la base de datos y la configuración del sistema de autenticación. Cuando esté listo, procederemos con los componentes de la interfaz de la página de inicio.
 
 3.
-He obtenido el error "Foreign key constraint violated" al intentar crear un contacto en src/app/actions/contactActions.ts. Este error ocurre porque no le estoy pasando el userId obligatorio a prisma.contact.create().   
+He obtenido el error "Foreign key constraint violated" al intentar crear un contacto en src/app/actions/contactActions.ts. Este error ocurre porque no le estoy pasando el userId obligatorio a prisma.contact.create().
 
+4.
+Actúa como un desarrollador Full-Stack experto en Next.js (App Router), TypeScript, Tailwind CSS y Prisma (u otro ORM moderno). Necesito que me añadas otra vez el boton de modificar/borrar para poder modificar y borrar los contactos.Y haz que pueda modificarlo y borrarlo cualquier persona que inicie sesión.
