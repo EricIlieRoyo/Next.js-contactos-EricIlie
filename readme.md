@@ -1,4 +1,4 @@
-Las principales diferencias de de Next.js con Symphony son:
+Las principales diferencias de de Next.js son:
 
 - El lenguaje de **JavaScript(Next.js)** permite arrancar el servidor una vez y se queda encendido escuchando peticiones a diferencia de **PHP** que tras cada petición reinicia. Por lo que el **JavaScript** es muy bueno para aplicaciones de tiempo real.
 
